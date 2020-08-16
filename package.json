@@ -1,0 +1,29 @@
+{
+  "name": "publishing-utils",
+  "version": "1.0.0",
+  "description": "Scripts that help with publishing!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CometCode-io/publishing-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CometCode-io/publishing-utils/issues"
+  },
+  "homepage": "https://github.com/CometCode-io/publishing-utils#readme",
+  "dependencies": {
+    "graphql": "^15.3.0",
+    "graphql-request": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
